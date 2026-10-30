@@ -1,7 +1,3 @@
-"""Practical 1: PYTHON FOR AI — SETUP AND BASICS.
-
-Extracted from BSBXLB302P_AI_Lab_Practical_Report.docx.
-"""
 
 # Verification script for environment & Python runtime
 import sys
